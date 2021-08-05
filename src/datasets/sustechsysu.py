@@ -131,7 +131,7 @@ class SUSTechSYSU(Dataset):
 def load_data(dataset_name):
     input_pattern = dataset_name + '/rawImages/{}.jpg'
     mask_pattern = dataset_name + '/corneaLabels/{}.png'
-    targetlist = glob.glob(dataset_name + '/ulcerLabels/*.png')[0:32]
+    targetlist = glob.glob(dataset_name + '/ulcerLabels/*.png')
     targetlist.sort()
     inputs, targets, masks, names = [], [], [], []
 
