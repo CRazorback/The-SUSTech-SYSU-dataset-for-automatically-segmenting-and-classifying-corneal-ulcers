@@ -2,13 +2,13 @@
 
 ![Samples](samples.png)
 
-The SUSTech SYSU dataset for automatically segmenting and classifying corneal ulcers (SUSTech-SYSU) is an ocular fluroscein staining image dataset of corneal ulcers:
+The SUSTech-SYSU dataset for automatically segmenting and classifying corneal ulcers (SUSTech-SYSU) is an ocular fluroscein staining image dataset of corneal ulcers:
 
-> **The SUSTech SYSU dataset for automatically segmenting and classifying corneal ulcers**<br>
+> **The SUSTech-SYSU dataset for automatically segmenting and classifying corneal ulcers**<br>
 > Lijie Deng, Junyan Lyu, Haixiang Huang, et al.<br>
 > https://doi.org/10.1038/s41597-020-0360-7
 
-This repository contains the official baseline implementation of our papers:
+This repository contains the official baseline implementation of our paper:
 
 > **Adjacent Scale Fusion and Corneal Position Embedding for Corneal Ulcer Segmentation**<br>
 > Zhonghua Wang, Junyan Lyu, Wenhao Luo, Xiaoying Tang.<br>
