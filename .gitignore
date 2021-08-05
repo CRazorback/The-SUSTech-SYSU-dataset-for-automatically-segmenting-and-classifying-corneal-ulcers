@@ -130,5 +130,7 @@ dmypy.json
 
 # custom
 *.txt
+!requirements.txt
 *.tar
 debug/
+.vscode/
