@@ -41,4 +41,5 @@ sh experiments/asf_cpe.sh
 
 ## Citation
 Deng, L., Lyu, J., Huang, H. et al. The SUSTech-SYSU dataset for automatically segmenting and classifying corneal ulcers. Sci Data 7, 23 (2020). https://doi.org/10.1038/s41597-020-0360-7
+
 Wang Z., Lyu J., Luo W., Tang X. (2021) Adjacent Scale Fusion and Corneal Position Embedding for Corneal Ulcer Segmentation. In: Fu H., Garvin M.K., MacGillivray T., Xu Y., Zheng Y. (eds) Ophthalmic Medical Image Analysis. OMIA 2021. Lecture Notes in Computer Science, vol 12970. Springer, Cham. https://doi.org/10.1007/978-3-030-87000-3_1
