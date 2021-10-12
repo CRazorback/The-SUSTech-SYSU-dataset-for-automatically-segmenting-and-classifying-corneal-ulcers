@@ -4,6 +4,6 @@ imageio
 scikit-learn
 scikit-image
 scipy
-opencv-python==3.4.8.29
+opencv-python==4.2.0.32
 kornia
 torchmetrics
